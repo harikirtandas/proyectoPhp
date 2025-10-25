@@ -1,0 +1,11 @@
+# Archivos de logs
+*.log
+
+# Dependencias de Composer (opcional)
+vendor/
+
+# Configuración local
+.env
+
+# Archivos temporales
+*.cache
